@@ -1,6 +1,6 @@
 # State-of-Health Estimation for Li-ion Batteries using Process Mining
 
-**Participants:** Yunseo Kim, Yeonsu Kim
+**Participants:** Yunseo Kim, Yeonsu Kim (Team YSK)
 
 **Writer:** Yeonsu Kim
 
