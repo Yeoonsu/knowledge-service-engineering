@@ -1,7 +1,9 @@
 # State-of-Health Estimation for Li-ion Batteries using Process Mining
 
 **Participants:** Yunseo Kim, Yeonsu Kim
+
 **Writer:** Yeonsu Kim
+
 **Date:** 2023-12-17
 
 This repository contains the project assignment for the Knowledge Service Engineering course (Prof. Lim Chi-Hyeon) during the Fall 2023 semester. The project uses process mining techniques to estimate the State of Health (SoH) of Li-ion batteries.
